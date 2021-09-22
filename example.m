@@ -10,5 +10,4 @@ U = magic(N);               % Random cell-values
 
 pcells(X,Y,U)               % Plot with pcells
 
-
-
+pcells(X,Y,U,'grid','off')  % Turn off grid
